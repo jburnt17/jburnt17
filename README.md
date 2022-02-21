@@ -8,9 +8,7 @@ I'm a Frontend Web Developer currently based in Atlanta.
  
  :books: I want to learn <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me anything.
 
 
 ---
