@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Frontend Web Developer currently based in Atlanta.
+**I'm a Frontend Web Developer currently based in Atlanta, GA. I'm a hockey lover 🏒 and I'm interested in learning all things tech 💻.**
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
  
