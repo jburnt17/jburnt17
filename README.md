@@ -1,4 +1,4 @@
-### Hi there, I'm Jared 👋
+<img src="https://jmb-s3-bucket.s3.amazonaws.com/banner.png">
 
 ---
 
