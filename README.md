@@ -1,4 +1,6 @@
-<img src="https://jmb-s3-bucket.s3.amazonaws.com/banner.png">
+<p align="center">
+ <img src="https://jmb-s3-bucket.s3.amazonaws.com/banner.png">
+</p>
 
 ---
 
