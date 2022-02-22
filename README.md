@@ -1,6 +1,7 @@
 <p align="center">
- <img src="https://jmb-s3-bucket.s3.amazonaws.com/banner.png">
+ <img src="https://user-images.githubusercontent.com/87793497/155071887-7cdae8a1-ad7d-4f0d-b204-22f1c891c696.gif" />
 </p>
+
 
 ---
 
