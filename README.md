@@ -5,11 +5,7 @@
 
 ---
 
-**I'm a Frontend Web Developer currently based in Atlanta, GA. I'm a hockey lover 🏒 and I'm interested in learning all things tech 💻.**
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
- 
- :books: I want to learn <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
+**💻Front-End Developer**
  
  💬 Ask me anything.
 
