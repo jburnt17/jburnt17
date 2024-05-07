@@ -1,20 +1,3 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/87793497/155071887-7cdae8a1-ad7d-4f0d-b204-22f1c891c696.gif" />
-</p>
-
-
----
-
-**💻Front-End Developer**
- 
- 💬 Ask me anything.
-
-
----
-
-
-### Tech & Tools Preference
-
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
